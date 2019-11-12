@@ -1,1 +1,1 @@
-# mercuryiosdev
+# Mercury iOS Development Team
