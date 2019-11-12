@@ -1,4 +1,3 @@
-# {{page.title}}
 ![](https://cdn.discordapp.com/attachments/633069116835627047/643951476825129030/MercuryDevLogo.png)
   
 ## What We Do
