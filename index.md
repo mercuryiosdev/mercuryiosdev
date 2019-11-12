@@ -1,6 +1,3 @@
----
-title: Mercury iOS Development Team
----
 # {{page.title}}
 ![](https://cdn.discordapp.com/attachments/633069116835627047/643951476825129030/MercuryDevLogo.png)
   
