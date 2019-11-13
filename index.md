@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/633069116835627047/643951476825129030/MercuryDevLogo.png)
+![](https://cdn.discordapp.com/attachments/643925707444977683/643964798434017280/MercuryDevLogo-5.png)
   
 ## What We Do
 
