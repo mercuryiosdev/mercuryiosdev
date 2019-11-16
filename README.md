@@ -1,1 +1,0 @@
-# Mercury iOS Development Team
